@@ -4132,3 +4132,13 @@ ul.terms-list li:last-child {
 nav a#pull {  
     display: none;  
 } 
+
+.icons-feature{
+  width: 70px;
+  height: auto;
+}
+
+.team-member-name {
+  font-size: 20px;
+  font-weight: bold;
+}

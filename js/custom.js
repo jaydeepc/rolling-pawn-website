@@ -162,7 +162,7 @@
 						youtube: {
 			   
 							index: 'youtube.com',
-							src: 'https://www.youtube.com/embed/SZEflIVnhH8'
+							src: 'https://www.youtube.com/embed/CfD9TKH0D8Y'
 				
 								}
 							}
@@ -182,7 +182,7 @@
 						youtube: {
 			   
 							index: 'youtube.com',
-							src: 'https://www.youtube.com/embed/7DNr5UJtPWU'
+							src: 'https://www.youtube.com/embed/x3AMa_8HRvw'
 				
 								}
 							}
